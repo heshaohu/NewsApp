@@ -1,5 +1,5 @@
 # NewsApp
-news app , like NetEasyNews
+news app ,just like NetEasyNews
 
 
 新闻类app 练习
